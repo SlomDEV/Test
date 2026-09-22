@@ -528,8 +528,8 @@
             items[ "ui_toggle" ] = library:create( "TextButton" , {
                 Parent = library[ "other" ];
                 Name = "UI_Toggle";
-                Position = dim2(0, 43, 0, 43);
-                Size = dim2(0, 84, 0, 80);
+                Position = dim2(0, 98, 0, 92);
+                Size = dim2(0, 340, 0, 290);
                 BackgroundColor3 = rgb(19, 19, 21);
                 TextColor3 = themes.preset.accent;
                 Text = "UI";
